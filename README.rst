@@ -1,9 +1,9 @@
 Documentation
 -------------
 
-* You can read online documentation at https://ivs-kuleuven.github.io/IvSPythonRepository/index.html
+*   You can read online documentation at https://ivs-kuleuven.github.io/IvSPythonRepository/index.html
 
-* (Recommended) The repository also comes ready to produce local documentation, instructions can be found below.
+*   (Recommended) The repository also comes ready to produce local documentation, instructions can be found below.
 
 Installation
 ------------
@@ -101,6 +101,6 @@ Installation
 Encountered errors and their solutions:
 =======================================
 
-1.  Q : When I run "python config.py compile", I get the following error:
+1.  Q: When I run "python config.py compile", I get the following error:
 numpy.distutils.fcompiler.CompilerNotFound: gnu95: f90 nor f77
-    A : Install gfortran.
+    Install gfortran.

@@ -94,12 +94,8 @@ Installation
 
 * Happy computing!
 
-
-
-
-
 Encountered errors and their solutions:
-=======================================
+---------------------------------------
 
 :Q: When I run "python config.py compile", I get the following error:
 
@@ -107,4 +103,4 @@ Encountered errors and their solutions:
 
         numpy.distutils.fcompiler.CompilerNotFound: gnu95: f90 nor f77
 
-:A: Install gfortran.
+:A: Install gfortran
